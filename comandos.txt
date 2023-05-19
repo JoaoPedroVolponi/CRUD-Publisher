@@ -1,0 +1,6 @@
+npm install -D typescript
+npm install -D ts-node
+npm install
+npm install express
+npm install mongoose
+npm i --save-dev @types/express
